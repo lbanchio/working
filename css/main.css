@@ -17,6 +17,7 @@ body {
 
 .jumbotron h1 {
     font-size: 22px;
+    font-weight: 500;
 }
 
 .jumbotron p {
@@ -25,6 +26,10 @@ body {
 
 #adj {
 
+}
+
+.text-center {
+    text-align: center; 
 }
 
 #more-info {
