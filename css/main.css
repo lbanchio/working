@@ -1,0 +1,61 @@
+/* ==========================================================================
+   Kiwing comming soon styles
+   
+   Leandro Banchio <lbanchio@gmail.com>
+   ========================================================================== */
+
+body {
+    background-color: #205D89;
+    font-family: 'Raleway', sans-serif;
+}
+
+.jumbotron {
+    background-color: rgba(255,255,255,0.075);
+    color: #efefef;
+    padding: 15px;
+}
+
+.jumbotron h1 {
+    font-size: 22px;
+}
+
+.jumbotron p {
+    font-size: 16px,
+}
+
+#adj {
+
+}
+
+#more-info {
+    margin: 30px 0;
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+  .jumbotron {
+      padding: 30px 50px 50px;
+  }
+  
+  .jumbotron h1 {
+      font-size: 28px;
+  }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
