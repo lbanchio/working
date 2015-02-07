@@ -2,8 +2,11 @@ var word = [
     'buenísimo.',
     'fantástico.',
     'increíble.',
+    'sensacional.',
     'asombroso.',
     'estupendo.',
+    'impresionante.',
+    'sorprendente.',
     'genial.'];
 
 var current = 1;
